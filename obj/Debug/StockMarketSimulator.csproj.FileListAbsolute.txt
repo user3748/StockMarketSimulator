@@ -1,0 +1,8 @@
+C:\Users\me\source\repos\StockMarketSimulator\bin\Debug\StockMarketSimulator.exe.config
+C:\Users\me\source\repos\StockMarketSimulator\bin\Debug\StockMarketSimulator.exe
+C:\Users\me\source\repos\StockMarketSimulator\bin\Debug\StockMarketSimulator.pdb
+C:\Users\me\source\repos\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojAssemblyReference.cache
+C:\Users\me\source\repos\StockMarketSimulator\obj\Debug\StockMarketSimulator.Properties.Resources.resources
+C:\Users\me\source\repos\StockMarketSimulator\obj\Debug\StockMarketSimulator.csproj.GenerateResource.cache
+C:\Users\me\source\repos\StockMarketSimulator\obj\Debug\StockMarketSimulator.exe
+C:\Users\me\source\repos\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
